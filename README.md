@@ -1,0 +1,1 @@
+# terrafrom_jaredholgate_resource_azure_container_registry
